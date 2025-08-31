@@ -52,3 +52,14 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+/.vs
+/XT.StorageController/obj
+/XT.StorageController/bin
+/XT.StorageModel/obj
+/XT.StorageModel/bin
+/obj
+/bin
+/.config
+XT.Storage.csproj.user
+/Properties
